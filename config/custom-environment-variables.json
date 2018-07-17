@@ -1,0 +1,9 @@
+{
+    "name": "Development - my express app",
+    "mail": {
+        "host": "dev-mail-server",
+        "password": "vidly_password"
+    },
+    "jwt-private-key": "vidly_jwt",
+    "logfile": "logfile.log"
+}
